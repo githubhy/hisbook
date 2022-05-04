@@ -43,7 +43,6 @@ _book/
 _bookdown_files/
 libs/
 backup/
-**/*.bib
 **/*.html
 
 # ignore all html files except:
