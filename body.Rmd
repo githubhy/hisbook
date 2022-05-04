@@ -1,4 +1,4 @@
-# 前言 {.unnumbered}
+# Index {.unnumbered}
 
 你好，世界。我写了一本书。这本书是这样的，第 \@ref(intro) 章介绍了啥啥，然后是啥啥......
 
