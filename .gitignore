@@ -37,3 +37,17 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
+
+# don't push local rendered files in master branch
+_book/
+_bookdown_files/
+libs/
+backup/
+**/*.bib
+**/*.html
+
+# ignore all html files except:
+!**/mathjax_header.html
+
+# ignore various logs
+.log
