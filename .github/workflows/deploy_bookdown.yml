@@ -18,7 +18,7 @@ jobs:
       - name: Install rmarkdown
         run: Rscript -e 'install.packages(c("rmarkdown","bookdown"))'
       - name: Render Book
-        run: Rscript -e 'rmarkdown::render_site(output_format = '"'"'bookdown::gitbook'"'"', encoding = '"'"'UTF-8'"'"')'
+        run: Rscript -e 'rmarkdown::render_site(output_format = ''bookdown::gitbook'', encoding = ''UTF-8'')'
         with:
           name: _book
           path: _book/
