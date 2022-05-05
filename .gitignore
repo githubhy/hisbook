@@ -48,5 +48,6 @@ backup/
 # ignore all html files except:
 !**/mathjax_header.html
 
-# ignore various logs
+# ignore various logs and books
 .log
+.pdf
