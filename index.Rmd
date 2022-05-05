@@ -38,4 +38,18 @@ n <- function(x) {
     sprintf("<span style='color: magenta; font-size: 80%%'>%s</span>", x)
   } else x
 }
+fn <- function(x) {
+  if (knitr::is_latex_output()) {
+    sprintf("^[%s]", x)
+  } else if (knitr::is_html_output()) {
+    sprintf("^[%s]", x)
+  } else x
+}
+q <- function() {
+  if (knitr::is_latex_output()) {
+    sprintf("\\textcolor{red}{\\small{[?]}}")
+  } else if (knitr::is_html_output()) {
+    sprintf("<span style='color: red; font-size: 80%%'>[?]</span>")
+  } else x
+}
 ```
