@@ -28,6 +28,8 @@ github-repo: yihui/bookdown-chinese
 #cover-image: images/cover.jpg
 ---
 
+# {-}
+
 ```{r echo=FALSE}
 n <- function(x) {
   if (knitr::is_latex_output()) {

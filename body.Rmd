@@ -1,10 +1,8 @@
-# Index {.unnumbered}
-
 # 魏晋 {#weijin}
 
 ## 司马防 {#simafang}
 
-### 三国志 - 武帝纪
+### 三国志 - 魏书 - 武帝纪
 
 《曹瞒传》曰：为尚书右丞司马建公`r n("司马防")`所举。及公为王，召建公到邺，与欢饮，谓建公曰："孤今日可复作尉否？"建公曰："昔举大王时，适可作尉耳。"王大笑。建公名防，司马宣王之父。臣松之案司马彪《序传》，建公不为右丞，疑此`r n("这件事")`不然，而王隐《晋书》云 `r n("自《晋书·赵王司马伦传》房玄龄")`赵王篡位，欲尊祖 `r n("司马防")`为帝，博士马平议 `r n("马平|马平议？")`称京兆府君昔举魏武帝为北部尉，贼不犯界，如此则为有征 `r n("证明")`。
 
@@ -26,10 +24,10 @@ IV. 上計，從西漢初蕭何起，轉歸丞相府管轄。漢武帝後相權�
 
 魏文帝 `r n("曹魏開國皇帝，220年－226年在位")` 即位，封河津亭侯 `r n("封爵	河津亭侯→安國鄉侯→向鄉侯→舞陽侯→晉王（追尊）→晉帝（追尊）")` ，转丞相长史 `r n("设立时代是秦、汉。丞相长史的作用是协助丞相管理文书等事物的高级官吏，秩级为千石")` 。会 `r n("恰好，正好")` 孙权帅兵西过，朝议以樊、襄阳无谷，不可以御寇。时曹仁镇襄阳（Figure \@ref(fig:map-xiangyang) ），请召仁还宛 `r n("南阳市")` 。
 
-```{r map-xiangyang, fig.cap="今襄阳在湖北省位置", out.width='90%', echo=FALSE}
+```{r map-xiangyang, fig.cap="今襄阳在湖北省位置", out.width='70%', fig.align='center', echo=FALSE}
 knitr::include_graphics("images/city_hubei_xiangyang.png")
 ```
-```{r map-nanyang, out.width='70%', echo=FALSE}
+```{r map-nanyang, out.width='50%', fig.align='center', echo=FALSE}
 knitr::include_graphics("images/city_henan_nanyang.png")
 ```
 
