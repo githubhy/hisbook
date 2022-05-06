@@ -1,10 +1,38 @@
-bookdown::word_document2: default 
+bookdown::word_document2: default
 bookdown::epub_book: default
 bookdown::html_document2: default
 bookdown::gitbook:
+## DOC: https://bookdown.org/yihui/bookdown/html.html#gitbook-style
   css: style/gitbook.css
+  split_by: section
   config:
+    toolbar:
+      position: fixed #static
     toc:
       collapse: none
+      scroll_highlight: true
+      before: |
+        <li><a href=".">My History Reading Notes</a></li>
       after: |
         <li><a href="https://bookdown.org/baydap/bookdownplus/" target="blank">Supported by bookdownplus</a></li>
+    download: null # ["pdf", "epub"]
+    search:
+      engine: lunr # or fuse
+      # options to control/tune search engine behavior (for
+      # fuse.js, refer to https://fusejs.io/api/options.html)
+      options: null
+#        includeMatches: true
+    fontsettings:
+      theme: white
+      family: serif
+      size: 3
+    sharing:
+      facebook: true
+      github: false
+      twitter: true
+      linkedin: true
+      weibo: true
+      instapaper: false
+      vk: false
+      whatsapp: false
+      all: ['weibo', 'facebook', 'twitter', 'linkedin', 'instapaper', 'whatsapp', 'vk']

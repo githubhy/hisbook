@@ -45,11 +45,11 @@ fn <- function(x) {
     sprintf("^[%s]", x)
   } else x
 }
-q <- function() {
+cm <- function(x) {
   if (knitr::is_latex_output()) {
-    sprintf("\\textcolor{red}{\\small{[?]}}")
+    sprintf("\\textcolor{red}{\\small{ [峰按] %s}}", x)
   } else if (knitr::is_html_output()) {
-    sprintf("<span style='color: red; font-size: 80%%'>[?]</span>")
+    sprintf("<span style='color: red; font-size: 80%%'> [峰按] %s</span>", x)
   } else x
 }
 ```
