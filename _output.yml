@@ -5,6 +5,8 @@ bookdown::gitbook:
 ## DOC: https://bookdown.org/yihui/bookdown/html.html#gitbook-style
   css: style/gitbook.css
   split_by: section
+  number_sections: false
+  toc_depth: 5 # https://stackoverflow.com/questions/49009212/how-to-change-toc-depth-in-r-bookdown-gitbook
   config:
     toolbar:
       position: fixed #static

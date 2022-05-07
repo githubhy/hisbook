@@ -12,7 +12,7 @@ fn <- function(x) {
     sprintf("^[%s]", x)
   } else x
 }
-fa <- function(x) {
+co <- function(x) {
   if (knitr::is_latex_output()) {
     sprintf("\\textcolor{red}{\\small{ [峰按] %s}}", x)
   } else if (knitr::is_html_output()) {
