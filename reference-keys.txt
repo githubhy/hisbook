@@ -1,11 +1,2 @@
 fig:map-xiangyang
-weijin
-simafang
-三国志魏书一武帝纪
-司马懿
-晋书宣帝
-曹爽
-三国志魏书九曹爽传
-初
-曹操
-三国志魏书一武帝纪-1
+fig:map-sanguo
