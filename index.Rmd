@@ -23,33 +23,12 @@ lot: yes
 lof: yes
 geometry: [a4paper, tmargin=2.5cm, bmargin=2.5cm, lmargin=3.5cm, rmargin=2.5cm]
 site: bookdown::bookdown_site
-description: "品读历史中人物，古为今鉴。"
-github-repo: yihui/bookdown-chinese
-#cover-image: images/cover.jpg
+description: "品读历史人物，古为今鉴。"
+github-repo: githubhy/hisbook
+cover-image: "images/cover_sheep_thinker.jpeg"
 ---
 
 # {-}
 
-```{r echo=FALSE}
-n <- function(x) {
-  if (knitr::is_latex_output()) {
-    sprintf("\\textcolor{magenta}{\\small{%s}}", x)
-  } else if (knitr::is_html_output()) {
-    sprintf("<span style='color: magenta; font-size: 80%%'>%s</span>", x)
-  } else x
-}
-fn <- function(x) {
-  if (knitr::is_latex_output()) {
-    sprintf("^[%s]", x)
-  } else if (knitr::is_html_output()) {
-    sprintf("^[%s]", x)
-  } else x
-}
-cm <- function(x) {
-  if (knitr::is_latex_output()) {
-    sprintf("\\textcolor{red}{\\small{ [峰按] %s}}", x)
-  } else if (knitr::is_html_output()) {
-    sprintf("<span style='color: red; font-size: 80%%'> [峰按] %s</span>", x)
-  } else x
-}
-```
+![Creative Commons License](images/by-nc-sa.png)  
+The online version of this book is licensed under the [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-nc-sa/4.0/)

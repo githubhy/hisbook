@@ -1,1 +1,22 @@
-book_filename: lf_hisbook
+## DOC: https://bookdown.org/yihui/bookdown/configuration.html
+book_filename: hisbook
+repo: https://github.com/githubhy/hisbook/
+delete_merged_file: true
+before_chapter_script: ["init.R"]
+# after_chapter_script: "script3.R"
+# history: [link]
+# view: https://github.com/githubhy/hisbook/blob/main/%s
+# edit: https://github.com/githubhy/hisbook/edit/main/%s
+output_dir: _book
+# clean: ["my-book.bbl", "R-packages.bib"]
+
+## DOC: https://bookdown.org/yihui/bookdown/new-session.html
+new_session: yes
+
+language:
+  label:
+    fig: "图 "
+    tab: "表 "
+  # ui:
+  #   edit: "Edit"
+  #   chapter_name: "Chapter "
