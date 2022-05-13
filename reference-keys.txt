@@ -1,2 +1,4 @@
 fig:map-sanguo
 fig:map-xiangyang
+fig:city-heyang-bianzhou
+fig:city-bianzhou-bingzhou
