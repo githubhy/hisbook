@@ -1,8 +1,11 @@
 --- 
 title: "历史上的一些人"
 author: "林峰"
-date: "2022-05-15"
+date: "2022-05-16"
 output:
+  ## https://rstudio.github.io/tufte/
+  tufte::tufte_handout: default
+  tufte::tufte_html: default
   bookdown::pdf_book:
     keep_tex: yes
     dev: "cairo_pdf"
