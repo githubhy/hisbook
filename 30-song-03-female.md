@@ -2,6 +2,8 @@
 
 ## 刘后
 
+宋真宗宫内。
+
 ### 《宋人轶事汇编·卷一》
 
 1. 章献明肃太后，成都华阳人。少随父下峡至玉泉寺，有长老者善相人，谓其父曰：‘君，贵人也。’及见后，则大惊曰：‘君之贵以此女也。’又曰：‘远方不足留，盍游京师乎？’父以贫为辞，长老者赠以中金百两。后之家至京师，真宗判南衙，因张耆纳后宫中。帝即位，为才人，进宸妃，至正位宫闱，声势动天下。仁宗即位，以太皇太后垂帘听政。玉泉长老者，已居长芦矣。后屡召不至，遣使就问所须，则曰：‘道人无所须也。玉泉寺无僧堂，长芦寺无山门，后其念之。’后以本阁服用物下两寺为钱，以建长芦寺临江门，起水中。……今《玉泉寺僧堂梁记》曰后所建云。《邵氏闻见录》卷一。《群书类编故事》卷四。
@@ -27,7 +29,7 @@
 
 ### 《宋人轶事汇编·卷一》
 
-1. 上幼冲即位，章献性严，动以礼法禁约之，未尝假以颜色，章惠以恩抚之。上多苦风痰，章献禁虾蟹海物不得进御，章惠常藏弆以食之，曰：‘太后何苦虐吾儿如此。’上由是怨章献而亲章惠，谓章献为大娘，章惠为小娘。及章献崩，尊章惠为太后，所以奉事曲尽恩意。景祐中，薨，神主祔于奉慈庙。《涑水记闻》卷八。
+1. 上 <span style='color: magenta; font-size: 80%'>仁宗</span> 幼冲 <span style='color: magenta; font-size: 80%'>年龄幼小</span> 即位，章献性严，动 <span style='color: magenta; font-size: 80%'>动不动，常常</span> 以礼法禁约之，未尝假以颜色 <span style='color: magenta; font-size: 80%'>在态度和言辞上表示友好</span> ，章惠以恩抚之。上多苦风痰，章献禁虾蟹海物不得进御，章惠常藏弆 <span style='color: magenta; font-size: 80%'>jǔ。收藏</span> 以食之，曰：‘太后何苦虐吾儿如此。’上由是怨章献而亲章惠 <span style='color: red; font-size: 80%'> [峰按] 刘氏用心良苦，杨氏不知，抑或明知故不知</span> ，谓章献为大娘，章惠为小娘 <span style='color: red; font-size: 80%'> [峰按] 为何不是大娘娘、小娘娘</span> 。及章献崩，尊章惠为太后，所以奉事曲尽 <span style='color: magenta; font-size: 80%'>曲尽，竭尽</span> 恩意。景祐中，薨，神主祔于奉慈庙。《涑水记闻》卷八。
 
 
 
@@ -35,8 +37,9 @@
 
 ### 《宋人轶事汇编·卷一》
 
-1. 章懿李后初在侧微，事章献明肃。章圣偶过阁中，欲盥手，后捧洗而前，上悦其肤色玉耀，与之言。后奏：‘昨夕忽梦一羽衣之士跣足从空而下云：“来为汝子。”’时上未有嗣，闻之，大喜云：‘当为汝成之。’是夕召幸，有娠。明年诞育昭陵。昭陵幼年，每穿履袜，即亟令脱去，常徒步禁掖，宫中皆呼为赤脚仙人。赤脚仙人，盖古之得道李君也。《挥麈后录》卷一。《群书类编故事》卷四。
-2. 李太后始入掖庭，才十余岁，惟有一弟七岁，太后临别，手结刻丝鞶囊与之，拍其背泣曰：‘汝虽沦落颠沛，不可弃此囊，异时我若遭遇，必访汝，以此为物色也。’言讫，不胜呜咽而去。后其弟佣于凿纸钱家，然常以囊悬于胸臆间，未尝斯须去身也。一日苦下痢，势将不救，为纸家弃于道左。有入内院子者，见而怜之，收养于家。恠其衣服百结，而胸悬鞶囊，因问之，具以告院子。院子惄然惊异，盖尝受旨于太后，令物色访其弟也。复问其姓氏、小字、世系甚悉，遂解其囊。明日，持入示太后，及具道本末。是时太后封宸妃，时真宗已生仁宗皇帝矣，闻之悲喜，遽以其事白真宗，遂官之，为右班殿直，即所谓李用和也。及仁宗立，太后上仙，谥曰章懿，召用和擢以显官，后至殿前都指挥使，领节钺，赠陇西郡王，世所谓李国舅者是也。《东轩笔录》卷二。《宋稗类钞》卷三。
+1. 章懿李后初在侧微 <span style='color: magenta; font-size: 80%'>卑贱、微贱</span> ，事章献明肃。章圣偶过阁中，欲盥手，后捧洗而前，上悦其肤色玉耀 <span style='color: magenta; font-size: 80%'>谓像玉色一样光艳夺目。多喻外表的美</span> ，与之言。[后奏]{#李宸妃上位}：‘昨夕忽梦一羽衣之士跣足 <span style='color: magenta; font-size: 80%'>xiǎn zú。赤脚</span> 从空而下云：“来为汝子。”’ <span style='color: red; font-size: 80%'> [峰按] 好手段</span> 时上未有嗣，闻之，大喜云：‘当为汝成之。’是夕召幸，有娠。明年诞育昭陵。昭陵幼年，每穿履袜，即亟令脱去，常徒步禁掖 <span style='color: magenta; font-size: 80%'>谓宫中旁舍。亦泛指宫廷</span> ，宫中皆呼为赤脚仙人。赤脚仙人，盖古之得道李君也。《挥麈后录》卷一。《群书类编故事》卷四。
+
+2. 李太后始入掖庭，才十余岁，惟有一弟七岁，太后临别，手结刻丝鞶囊 <span style='color: magenta; font-size: 80%'>pán náng。革制的囊。古人用以盛手巾细物</span> 与之，拍其背泣曰：‘汝虽沦落颠沛，不可弃此囊，异时我若遭遇，必访汝，以此为物色也。’言讫，不胜呜咽而去。后其弟佣于凿纸钱家，然常以囊悬于胸臆间，未尝斯须 <span style='color: magenta; font-size: 80%'>斯须。一会儿的功夫,片刻</span> 去身也。一日苦下痢，势将不救，为纸家弃于道左。有入内院子者，见而怜之，收养于家。恠 <span style='color: magenta; font-size: 80%'>guài。同“怪”</span> 其衣服百结 <span style='color: magenta; font-size: 80%'>多次缝补。比喻衣服破旧</span> ，而胸悬鞶囊，因问之，具以告院子 <span style='color: magenta; font-size: 80%'>院子，指仆役</span> 。院子惄 <span style='color: magenta; font-size: 80%'>nì。忧郁，伤痛</span> 然惊异，盖尝受旨于太后，令物色访其弟也。复问其姓氏、小字、世系甚悉，遂解其囊。明日，持入示太后，及具道本末。是时太后封宸妃，时真宗已生仁宗皇帝矣，闻之悲喜，遽以其事白真宗 <span style='color: red; font-size: 80%'> [峰按] 可见宸妃受封后尚留一段时日</span> ，遂官之，为右班殿直，即所谓 *李用和* 也。及仁宗立，太后上仙，谥曰章懿，召用和擢 <span style='color: magenta; font-size: 80%'>zhuó。选拔</span> 以显官，后至殿前都指挥使，领节钺，赠陇西郡王，世所谓 *李国舅* 者是也。《东轩笔录》卷二。《宋稗类钞》卷三。
 
 [^奉先寺]: 奉先，祭祀祖先。唐佛寺。俗称九间房。位于今河南洛阳伊水东岸龙门山南部半山，依山凿窟，为龙门石窟群中最大的露天大龛。窟内广深各35米多，崖壁上雕出成组的十一尊大佛。布局宏伟，构思完整。其中卢舍那佛像，高17.14米，左右金刚立像，高13米。咸亨三年(672)，武后助脂粉钱两万贯开凿，上元二年(675)底竣工。调露元年(679)大像南置寺，名为奉先寺。
 
@@ -44,12 +47,14 @@
 
 [^承旨]: 官名。唐代翰林院有翰林学士承旨，位在诸学士上。凡大诰令﹑大废置﹑重要政事，皆得专对。宋元仍其制。元赵孟俯曾为此官，世称赵承旨。明废。参阅唐元稹《翰林承旨学士记》。又五代枢密院有枢密院承旨﹑副承旨;宋代枢密院有都承旨﹑副承旨。初用武臣，后参用文臣。参阅《文献通考．职官十二》。
 
-4. 晏元献公撰《章懿太后神道碑》，破题云：‘五岳峥嵘，昆山出玉；四溟 <span style='color: magenta; font-size: 80%'>海</span> 浩渺，丽水生金。’盖言诞育圣躬，实系懿 <span style='color: magenta; font-size: 80%'>美好</span> 后。奈仁宗夙 <span style='color: magenta; font-size: 80%'>早</span> 以母仪事明肃刘太后，膺 <span style='color: magenta; font-size: 80%'>担当，接受重任 [bear]</span> 先帝拥祐之托，难为直致 <span style='color: magenta; font-size: 80%'>直而没有曲折</span> ，然才者则爱其善比 <span style='color: magenta; font-size: 80%'>比方</span> 也。独仁宗不悦，谓晏曰：‘何不直言诞育朕躬，使天下知之？’晏公具以前意奏之。上曰：‘此等事卿宜置之，区区不足较，当更别改。’晏曰：‘已焚草于神寝。’上终不悦。迨升祔 <span style='color: magenta; font-size: 80%'>shēng fù。升入祖庙附祭于先祖</span> ，二后赦 *文孙承旨* <span style='color: magenta; font-size: 80%'>亦作“承指”。逢迎意旨。或官名</span> [^承旨] 抃 <span style='color: magenta; font-size: 80%'>biàn。拍手、鼓掌</span> 当笔 <span style='color: magenta; font-size: 80%'>主持撰拟文稿</span> ，协圣意直叙曰：‘章懿太后丕拥庆羡 <span style='color: magenta; font-size: 80%'>庆羡。以为有幸而欣羡</span> ，实生眇冲 <span style='color: magenta; font-size: 80%'>miǎo chōng。幼小的人。帝王自称之词</span> ，顾复 <span style='color: magenta; font-size: 80%'>指父母之养育，出自.《诗．小雅．蓼莪》</span> 之恩深，保绥 <span style='color: magenta; font-size: 80%'>bǎo suí。使得到保全，获得安定</span> 之念重。神驭既往，仙游斯邈 <span style='color: magenta; font-size: 80%'>遥远</span> 。嗟乎！为天下之母，育天下之君，不逮 <span style='color: magenta; font-size: 80%'>到，及</span> 九重之承颜 <span style='color: magenta; font-size: 80%'>顺承尊长的颜色。谓侍奉尊长</span> ，不及乎四海之致养，念言一至，追慕增结。’上览之，感泣弥月。明赐之外，悉以东宫旧玩密赉 <span style='color: magenta; font-size: 80%'>lài。赏赐</span> 之。岁余，参大政 <span style='color: magenta; font-size: 80%'>国家政务</span> 。《湘山野录》卷上。《西塘集耆旧续闻》卷五。
+4. 晏元献公撰《章懿太后神道碑》，破题云：‘五岳峥嵘，昆山出玉；四溟 <span style='color: magenta; font-size: 80%'>海</span> 浩渺，丽水生金。’盖言诞育圣躬，实系懿 <span style='color: magenta; font-size: 80%'>美好</span> 后。奈仁宗夙 <span style='color: magenta; font-size: 80%'>早</span> 以母仪事明肃刘太后，膺 <span style='color: magenta; font-size: 80%'>担当，接受重任 [bear]</span> 先帝拥祐之托，难为直致 <span style='color: magenta; font-size: 80%'>直而没有曲折</span> ，然才者则爱其善比 <span style='color: magenta; font-size: 80%'>比方</span> 也。独仁宗不悦，谓晏曰：‘何不直言诞育朕躬，使天下知之？’晏公具以前意奏之。上曰：‘此等事卿宜置之，区区不足较，当更别改。’晏曰：‘已焚草 <span style='color: magenta; font-size: 80%'>烧掉奏稿，以示谨密</span> 于神寝。’上终不悦。迨升祔 <span style='color: magenta; font-size: 80%'>shēng fù。升入祖庙附祭于先祖</span> ，二后赦文 <span style='color: magenta; font-size: 80%'>赦文。朝廷公布赦罪的文书</span> *孙承旨* <span style='color: magenta; font-size: 80%'>亦作“承指”。逢迎意旨。或官名</span> [^承旨] 抃 <span style='color: magenta; font-size: 80%'>biàn。拍手、鼓掌</span> 当笔 <span style='color: magenta; font-size: 80%'>主持撰拟文稿</span> ，协圣意直叙曰：‘章懿太后丕拥庆羡 <span style='color: magenta; font-size: 80%'>庆羡。以为有幸而欣羡</span> ，实生眇冲 <span style='color: magenta; font-size: 80%'>miǎo chōng。幼小的人。帝王自称之词</span> ，顾复 <span style='color: magenta; font-size: 80%'>指父母之养育，出自.《诗．小雅．蓼莪》</span> 之恩深，保绥 <span style='color: magenta; font-size: 80%'>bǎo suí。使得到保全，获得安定</span> 之念重。神驭既往，仙游斯邈 <span style='color: magenta; font-size: 80%'>遥远</span> 。嗟乎！为天下之母，育天下之君，不逮 <span style='color: magenta; font-size: 80%'>到，及</span> 九重之承颜 <span style='color: magenta; font-size: 80%'>顺承尊长的颜色。谓侍奉尊长</span> ，不及乎四海之致养，念言一至，追慕增结。’上览之，感泣弥月。明赐之外，悉以东宫旧玩密赉 <span style='color: magenta; font-size: 80%'>lài。赏赐</span> 之。岁余，参大政 <span style='color: magenta; font-size: 80%'>国家政务</span> 。《湘山野录》卷上。《西塘集耆旧续闻》卷五。
 
-5. 孙文懿公 <span style='color: red; font-size: 80%'> [峰按] 同上文“文孙承旨”</span> 为翰林学士，撰《进祔李太后赦文》曰：‘章懿太后丕拥庆羡，实生眇冲，顾复之恩深，保绥之念重。神驭既往，仙游斯邈。嗟乎！为天下之母，育天下之君，不逮乎九重之承颜，不及乎四海之致养，念言一至，追慕增结。’仁宗皇帝览之，感泣弥月。公自此遂参大政。帝问文懿曰：‘卿何故能道朕心中事？’公曰：‘臣少以庶子不齿于兄弟，不及养母，以此知陛下圣心中事。’上为之流涕。先是晏元献公撰《章懿太后神道碑》曰：‘五岳峥嵘，昆山出玉；四溟浩渺，丽水生金。’盖以明肃太后为尊也。学士大夫嘉其善比，独仁宗不悦。《邵氏闻见录》卷二。
+5. 孙文懿公 <span style='color: red; font-size: 80%'> [峰按] 同上文“孙承旨”</span> 为翰林学士，撰《进祔 <span style='color: magenta; font-size: 80%'>fù。奉新死者的神主入庙，与先祖合祭</span> 李太后赦文》曰：‘章懿太后丕拥庆羡，实生眇冲，顾复之恩深，保绥之念重。神驭既往，仙游斯邈。嗟乎！为天下之母，育天下之君，不逮乎九重之承颜，不及乎四海之致养，念言一至，追慕增结。’仁宗皇帝览之，感泣弥月。公自此遂参大政。帝问文懿曰：‘卿何故能道朕心中事？’公曰：‘臣少以庶子不齿 <span style='color: magenta; font-size: 80%'>不愿意提到,表示极端鄙视</span> 于兄弟，不及养母，以此知陛下圣心中事。’上为之流涕。先是晏元献公撰《章懿太后神道碑》曰：‘五岳峥嵘，昆山出玉；四溟浩渺，丽水生金。’盖以明肃太后为尊也。学士大夫嘉其善比，独仁宗不悦。<span style='color: red; font-size: 80%'> [峰按] 仁宗多愁善感，心思细腻</span> 《邵氏闻见录》卷二。
 
 
 ## 郭后
+
+宋仁宗宫内。
 
 ### 《宋人轶事汇编·卷二》
 
