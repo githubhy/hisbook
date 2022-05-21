@@ -1,6 +1,0 @@
-\cleardoublepage
-
-# (APPENDIX) 附录 {.unnumbered}
-
-
-`r if (knitr:::is_html_output()) '# 参考文献 {#references .unnumbered}'`
