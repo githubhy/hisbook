@@ -35,6 +35,7 @@ jobs:
   bookdown:
     name: Render-Book
     runs-on: macOS-latest
+    needs: preproc
     steps:
       - uses: actions/checkout@v1
       - name: Download preprocessing results
