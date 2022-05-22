@@ -6,7 +6,7 @@ bookdown::gitbook:
   css: style/gitbook.css
   split_by: section
   number_sections: false
-  toc_depth: 5 # https://stackoverflow.com/questions/49009212/how-to-change-toc-depth-in-r-bookdown-gitbook
+  toc_depth: 2 # https://stackoverflow.com/questions/49009212/how-to-change-toc-depth-in-r-bookdown-gitbook
   config:
     toolbar:
       position: fixed #static
@@ -19,7 +19,7 @@ bookdown::gitbook:
         <li><a href="https://bookdown.org/baydap/bookdownplus/" target="blank">Supported by bookdownplus</a></li>
     download: null # ["pdf", "epub"]
     search:
-      engine: lunr # or fuse
+      engine: fuse # lunr
       # options to control/tune search engine behavior (for
       # fuse.js, refer to https://fusejs.io/api/options.html)
       options: null
@@ -38,3 +38,12 @@ bookdown::gitbook:
       vk: false
       whatsapp: false
       all: ['weibo', 'facebook', 'twitter', 'linkedin', 'instapaper', 'whatsapp', 'vk']
+bookdown::bs4_book:
+  ## Reference: https://pkgs.rstudio.com/bookdown/reference/bs4_book.html
+  theme:
+    primary: "#0d6efd"
+    # repo:
+    #   base: https://github.com/githubhy/hisbook
+    #   branch: main
+    #   subdir: book
+    #   icon: "fas fa-air-freshener"
