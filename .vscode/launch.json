@@ -10,7 +10,7 @@
             "request": "launch",
             "program": "${file}",
             // Ref to: https://code.visualstudio.com/docs/editor/variables-reference
-            "args": ["tools/98-anicdotes-song.md", "--convert", "--split", "--output_dir", "${fileWorkspaceFolder}"],
+            "args": ["${workspaceFolder}/tools/data/98-anicdotes-tang.md", "--convert", "--split", "--output_dir", "${workspaceFolder}/_out"],
             "console": "integratedTerminal",
             "justMyCode": true
         }

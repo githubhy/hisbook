@@ -8,11 +8,40 @@ on:
 name: renderbook
 
 jobs:
+  preproc:
+    name: Preprocess Reference Books
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - name: Set up Python 3.x
+        uses: actions/setup-python@v3
+        with:
+          # Semantic version range syntax or exact version of a Python version
+          python-version: '3.x'
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install -r tools/proc_anicdotes_book/requirements.txt
+      - name: Process books
+        run: |
+          python tools/proc_anicdotes_book/proc.py tools/data/98-anicdotes-tang.md --convert --output_dir _out
+          python tools/proc_anicdotes_book/proc.py tools/data/98-anicdotes-song.md --convert --output_dir _out
+      - name: Archive processed books
+        uses: actions/upload-artifact@v3
+        with:
+          name: preproc_output
+          path: _out
+
   bookdown:
     name: Render-Book
     runs-on: macOS-latest
     steps:
       - uses: actions/checkout@v1
+      - name: Download preprocessing results
+        uses: actions/download-artifact@v3
+        with:
+          name: preproc_output
+          path: ./
       - uses: r-lib/actions/setup-r@v1
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install rmarkdown
