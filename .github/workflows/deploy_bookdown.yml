@@ -21,11 +21,11 @@ jobs:
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install -r tools/proc_anicdotes_book/requirements.txt
+          pip install -r tools/proc_book/requirements.txt
       - name: Process books
         run: |
-          python tools/proc_anicdotes_book/proc.py tools/data/98-anicdotes-tang.md --convert --output_dir _out
-          python tools/proc_anicdotes_book/proc.py tools/data/98-anicdotes-song.md --convert --output_dir _out
+          python tools/proc_book/proc.py --tag_prefix 唐轶 --output_dir _out tag --alt books/98-anicdotes-tang-out.Rmd
+          python tools/proc_book/proc.py --tag_prefix 宋轶 --output_dir _out tag --alt books/98-anicdotes-song-out.Rmd
       - name: Archive processed books
         uses: actions/upload-artifact@v3
         with:
@@ -34,7 +34,7 @@ jobs:
 
   bookdown:
     name: Render-Book
-    runs-on: macOS-latest
+    runs-on: macos-latest
     needs: preproc
     steps:
       - uses: actions/checkout@v1
