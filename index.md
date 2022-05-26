@@ -1,7 +1,7 @@
 --- 
 title: "历史上的一些人"
 author: "林峰"
-date: "2022-05-22"
+date: "2022-05-26"
 output:
   ## https://rstudio.github.io/tufte/
   tufte::tufte_handout: default
