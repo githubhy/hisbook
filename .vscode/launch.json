@@ -5,12 +5,42 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Current File",
+            "name": "Python: Persist Current File",
             "type": "python",
             "request": "launch",
-            "program": "${file}",
+            "program": "${workspaceFolder}/tools/proc_book/proc.py",
             // Ref to: https://code.visualstudio.com/docs/editor/variables-reference
-            "args": ["${workspaceFolder}/tools/data/98-anicdotes-tang.md", "--convert", "--split", "--output_dir", "${workspaceFolder}/_out"],
+            "args": [
+                // "persistent",
+                "--rmd",
+                "--convert",
+                "--output_dir",
+                "--tag_prefix", "宋軼",
+                "${workspaceFolder}/_out",
+                "persist",
+                "--name", "宋人軼事彙編",
+                "${file}",
+            ],
+            "console": "integratedTerminal",
+            "justMyCode": true
+        },
+        {
+            "name": "Python: Tag Current File",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/tools/proc_book/proc.py",
+            // Ref to: https://code.visualstudio.com/docs/editor/variables-reference
+            "args": [
+                // "persistent",
+                // "--name", "唐人軼事彙編",
+                "--tag_prefix", "宋轶",
+                // "--convert",
+                "--output_dir",
+                "${workspaceFolder}/_out",
+                "tag",
+                "--alt",
+                "${file}",
+            ],
             "console": "integratedTerminal",
             "justMyCode": true
         }
