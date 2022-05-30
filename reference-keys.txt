@@ -2,6 +2,7 @@ fig:map-sanguo
 fig:map-xiangyang
 fig:city-heyang-bianzhou
 fig:city-bianzhou-bingzhou
+fig:fig-xianglun
 林峰评
 奇人轶事惊人言语
 三国魏帝
@@ -36,6 +37,9 @@ simafang
 唐官员
 狄仁杰
 唐人轶事汇编卷八
+宋年号
+年号-北宋
+年号-南宋
 宋皇帝
 宋仁宗
 宋人轶事汇编卷二
