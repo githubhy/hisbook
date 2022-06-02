@@ -38,3 +38,6 @@ backup/
 *.log
 *.pdf
 *.rds
+
+# Python files
+*.pyc
