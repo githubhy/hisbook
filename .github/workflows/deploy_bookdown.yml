@@ -46,7 +46,7 @@ jobs:
       - uses: r-lib/actions/setup-r@v1
       - uses: r-lib/actions/setup-pandoc@v1
       - name: Install rmarkdown
-        run: Rscript -e 'install.packages(c("rmarkdown", "bookdown", "bookdownplus", "downlit", "xml2"))'
+        run: Rscript -e 'install.packages(c("rmarkdown", "bookdown", "bookdownplus", "downlit", "xml2", "DiagrammeR"))'
       - name: Render Book
         run: Rscript -e 'rmarkdown::render_site(output_format = "bookdown::bs4_book", encoding = "UTF-8")'
       - uses: actions/upload-artifact@v1
