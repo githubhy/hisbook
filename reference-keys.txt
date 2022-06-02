@@ -3,6 +3,7 @@ fig:map-xiangyang
 fig:city-heyang-bianzhou
 fig:city-bianzhou-bingzhou
 fig:fig-xianglun
+fig:图-张贵妃人物关系
 林峰评
 奇人轶事惊人言语
 三国魏帝
