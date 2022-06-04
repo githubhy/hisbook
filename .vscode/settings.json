@@ -12,7 +12,7 @@
         {
             "previewLimit": 50,
             "driver": "SQLite",
-            "database": "N:\\ws_git\\hisbook\\tools\\data\\content_tags.db",
+            "database": "./tools/data/content_tags.db",
             "name": "ct_tags"
         }
     ],
