@@ -5,6 +5,7 @@ fig:city-bianzhou-bingzhou
 fig:fig-xianglun
 fig:图-张贵妃人物关系
 fig:图-高后人物关系
+fig:五代十国
 林峰评
 奇人奇事奇言
 三国魏帝
