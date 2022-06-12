@@ -3,7 +3,7 @@
  */
 
 
-.cmt .cmt1 {
+.cmt, .cmt1 {
     color: RoyalBlue;
     /* background-color: lavender; */
     font-size: 90%;
