@@ -40,10 +40,17 @@ bookdown::gitbook:
       all: ['weibo', 'facebook', 'twitter', 'linkedin', 'instapaper', 'whatsapp', 'vk']
 bookdown::bs4_book:
   ## Reference: https://pkgs.rstudio.com/bookdown/reference/bs4_book.html
+  #             https://bookdown.org/yihui/bookdown/html.html
   theme:
     primary: "#0d6efd"
-    # repo:
-    #   base: https://github.com/githubhy/hisbook
-    #   branch: main
-    #   subdir: book
-    #   icon: "fas fa-air-freshener"
+    danger:  "#dc3545"   # default .rmdcaution = red
+    success: "#198754"   # default .rmdimportant = green
+    info:    "#0dcaf0"   # default .rmdtip = cyan
+    warning: "#ffc107"   # default .rmdwarning = yellow
+  footnotes_inline: true
+  repo:
+    base: https://github.com/githubhy/hisbook
+    branch: main
+    # subdir: book
+    icon: "fas fa-air-freshener"
+  css: style/bs4_book.css

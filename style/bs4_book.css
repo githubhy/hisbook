@@ -1,0 +1,21 @@
+/* References:
+    *   -color: https://www.w3schools.com/colors/colors_names.asp
+ */
+
+
+.cmt .cmt1 {
+    color: RoyalBlue;
+    /* background-color: lavender; */
+    font-size: 90%;
+}
+
+.cmt2 {
+    /* background-color: LightCyan; */
+    color: PaleVioletRed;
+    /* font-size: 90%; */
+}
+
+.cmt3 {
+    color: SeaGreen;
+    /* font-size: 90%; */
+}

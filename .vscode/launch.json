@@ -5,6 +5,22 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Python: Proc Docx",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/tools/proc_book/proc_docx.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "${workspaceFolder}/tools/data/90-3kingdoms.docx",
+                "--output_dir",
+                "books",
+                // "${workspaceFolder}/books/90-three_kingdoms/卷三.docx",
+                ">",
+                "${workspaceFolder}/debug.log",
+            ]
+        },
+        {
             "name": "Python: Persist Current File",
             "type": "python",
             "request": "launch",
@@ -15,10 +31,12 @@
                 "--rmd",
                 "--convert",
                 "--output_dir",
-                "--tag_prefix", "宋軼",
+                "--tag_prefix",
+                "宋軼",
                 "${workspaceFolder}/_out",
                 "persist",
-                "--name", "宋人軼事彙編",
+                "--name",
+                "宋人軼事彙編",
                 "${file}",
             ],
             "console": "integratedTerminal",
@@ -33,7 +51,8 @@
             "args": [
                 // "persistent",
                 // "--name", "唐人軼事彙編",
-                "--tag_prefix", "宋轶",
+                "--tag_prefix",
+                "宋轶",
                 // "--convert",
                 "--output_dir",
                 "${workspaceFolder}/_out",
