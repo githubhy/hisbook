@@ -5,6 +5,60 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Python: Proc Docx(docx dbg)",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/tools/proc_book/proc_docx.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                // "${workspaceFolder}/tools/data/90-3kingdoms.docx",
+                "--output_dir",
+                "books",
+                "--test_cat",
+                "docx",
+                "${workspaceFolder}/books/90-three_kingdoms/卷五十四.docx",
+                ">",
+                "${workspaceFolder}/debug_docx.log",
+            ]
+        },
+        {
+            "name": "Python: Proc Docx(parser dbg)",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/tools/proc_book/proc_docx.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                // "${workspaceFolder}/tools/data/90-3kingdoms.docx",
+                "--output_dir",
+                "books",
+                "--test_cat",
+                "parser",
+                "${workspaceFolder}/books/90-three_kingdoms/卷二.docx",
+                ">",
+                "${workspaceFolder}/debug_parser.log",
+            ]
+        },
+        {
+            "name": "Python: Proc Docx(char test)",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/tools/proc_book/proc_docx.py",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "${workspaceFolder}/tools/data/90-3kingdoms.docx",
+                "--output_dir",
+                "books",
+                "--test_cat",
+                "char",
+                // "${workspaceFolder}/books/90-three_kingdoms/卷二.docx",
+                ">",
+                "${workspaceFolder}/debug_char.log",
+            ]
+        },
+        {
             "name": "Python: Proc Docx",
             "type": "python",
             "request": "launch",
@@ -15,9 +69,9 @@
                 "${workspaceFolder}/tools/data/90-3kingdoms.docx",
                 "--output_dir",
                 "books",
-                // "${workspaceFolder}/books/90-three_kingdoms/卷三.docx",
+                // "${workspaceFolder}/books/90-three_kingdoms/卷二.docx",
                 ">",
-                "${workspaceFolder}/debug.log",
+                "${workspaceFolder}/debug_full.log",
             ]
         },
         {
