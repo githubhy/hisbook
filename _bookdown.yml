@@ -11,7 +11,7 @@ output_dir: _book
 # clean: ["my-book.bbl", "R-packages.bib"]
 
 ## DOC: https://bookdown.org/yihui/bookdown/new-session.html
-new_session: no
+new_session: yes
 
 language:
   label:
