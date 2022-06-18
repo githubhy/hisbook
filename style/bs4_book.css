@@ -3,19 +3,19 @@
  */
 
 
-.cmt, .cmt1 {
+.c1 {
     color: RoyalBlue;
     /* background-color: lavender; */
     font-size: 90%;
 }
 
-.cmt2 {
+.c2 {
     /* background-color: LightCyan; */
     color: PaleVioletRed;
     /* font-size: 90%; */
 }
 
-.cmt3 {
+.c3 {
     color: SeaGreen;
     /* font-size: 90%; */
 }
