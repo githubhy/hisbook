@@ -32,7 +32,7 @@ jobs:
         #   python tools/proc_book/proc_docx.py --output_dir _out tools/data/90-3kingdoms.docx
         #   python tools/proc_book/proc_mobi.py --output_dir _out tools/data/60-24-history-literature
         run: |
-          python tools/proc_book/proc_mobi.py --output_dir _out tools/data/60-24-history-literature
+          python tools/proc_book/proc_docx.py --output_dir _out tools/data/90-3kingdoms.docx
       - name: Archive processed books
         uses: actions/upload-artifact@v3
         with:
