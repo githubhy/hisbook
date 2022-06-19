@@ -25,6 +25,9 @@ jobs:
         run: |
           python -m pip install --upgrade pip
           pip install -r tools/proc_book/requirements.txt
+      - name: Test preproc tools with pytest
+        run: |
+          pytest
       - name: Process books
         # run: |
         #   python tools/proc_book/proc.py --tag_prefix 唐轶 --output_dir _out tag --alt books/98-anecdotes-tang-out.Rmd
@@ -32,7 +35,7 @@ jobs:
         #   python tools/proc_book/proc_docx.py --output_dir _out tools/data/90-3kingdoms.docx
         #   python tools/proc_book/proc_mobi.py --output_dir _out tools/data/60-24-history-literature
         run: |
-          python tools/proc_book/proc_docx.py --output_dir _out tools/data/90-3kingdoms.docx
+          python tools/proc_book/proc_rmd.py --output_dir _out books/90-3kingdoms.Rmd
       - name: Archive processed books
         uses: actions/upload-artifact@v3
         with:

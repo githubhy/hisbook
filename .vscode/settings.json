@@ -1,11 +1,5 @@
 {
-    "python.testing.unittestArgs": [
-        "-v",
-        "-s",
-        "./tools/proc_anicdotes_book",
-        "-p",
-        "test_*.py"
-    ],
+    "python.testing.unittestArgs": [],
     "python.testing.pytestEnabled": true,
     "python.testing.unittestEnabled": false,
     "sqltools.connections": [
@@ -16,5 +10,8 @@
             "name": "ct_tags"
         }
     ],
-    "sqltools.useNodeRuntime": true
+    "sqltools.useNodeRuntime": true,
+    "python.testing.pytestArgs": [
+        "tools"
+    ]
 }
