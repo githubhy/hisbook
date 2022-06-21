@@ -5,6 +5,19 @@
     "version": "0.2.0",
     "configurations": [
         {
+            "name": "Python: Rmd",
+            "type": "python",
+            "request": "launch",
+            "program": "${file}",
+            "console": "integratedTerminal",
+            "justMyCode": true,
+            "args": [
+                "--output_dir",
+                ".",
+                "${workspaceFolder}/_out/98-anecdotes-tang-out-out.Rmd"
+            ]
+        },
+        {
             "name": "Python: Proc Docx(docx dbg)",
             "type": "python",
             "request": "launch",
