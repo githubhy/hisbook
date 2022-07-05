@@ -42,3 +42,6 @@ backup/
 # Python files
 *.pyc
 **/__pycache__/
+
+# Temp/output folders
+_*/
